@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uchechukwuohajuru
-- 👀 I’m interested in creative designs and branding
-- 🌱 I’m currently learning the principles of visual communication 
-- 💞️ I’m looking to collaborate on projects that have visual communication aspects. 
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning data science 
+- 💞️ I’m looking forward to opportunities to contribute while learning. 
 
 
 <!---
